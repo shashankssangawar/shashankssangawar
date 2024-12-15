@@ -8,7 +8,7 @@
 - 🎗️&nbsp;&nbsp; Photographer, Trekker, Martial Artist  
 - 🎗️&nbsp;&nbsp;Lifetime Student / Hustler
 - 🎗️&nbsp;&nbsp;System Architect, FullStack Developer, AI/ML Developer, FinTech Practioneer & many more
-- 🎗️&nbsp;&nbsp;CTO of Eatofy &  Co-Owner of Appniche Technologies
+- 🎗️&nbsp;&nbsp;Co-Owner of Appniche Technologies
 - 🎗️&nbsp;&nbsp;Bachelor's degree in IT department
 
 
