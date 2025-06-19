@@ -9,7 +9,6 @@
 
 ## ⚓ About Me
 - &nbsp;&nbsp;Linux Enthusiast
-- &nbsp;&nbsp; Photographer, Trekker, Martial Artist  
 - &nbsp;&nbsp;Lifetime Student / Hustler
 - &nbsp;&nbsp; Sepcialize in FullStack Development, System Designing and Networking
 - &nbsp;&nbsp; Currently Working at SKZ Technologies
