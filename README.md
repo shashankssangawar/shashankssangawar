@@ -4,12 +4,12 @@
 ![visitors](https://komarev.com/ghpvc/?username=Redhood-Schizophrenic&color=red&abbreviated=true&label=Counts)
 
 ## ⚓ About Me
-- 📍 &nbsp;&nbsp;Linux Enthusiast
-- 📍 &nbsp;&nbsp; Photographer, Trekker, Martial Artist  
-- 📍 &nbsp;&nbsp;Lifetime Student / Hustler
-- 📍 &nbsp;&nbsp; Sepcialize in FullStack Development, System Designing and Networking
-- 📍 &nbsp;&nbsp; Currently Working at SKZ Technologies
-- 📍 &nbsp;&nbsp; Bachelor's degree in IT department
+- &nbsp;&nbsp;Linux Enthusiast
+- &nbsp;&nbsp; Photographer, Trekker, Martial Artist  
+- &nbsp;&nbsp;Lifetime Student / Hustler
+- &nbsp;&nbsp; Sepcialize in FullStack Development, System Designing and Networking
+- &nbsp;&nbsp; Currently Working at SKZ Technologies
+- &nbsp;&nbsp; Bachelor's degree in IT department
 
 
 
