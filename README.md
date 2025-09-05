@@ -1,5 +1,8 @@
-[https://raw.githubusercontent.com/shashankssangawar/shashankssangawar/refs/heads/main/2.gif](https://shashank-s-sangawar-portfolio.vercel.app/)
-
+[<img 
+   src="https://raw.githubusercontent.com/shashankssangawar/shashankssangawar/master/2.gif" 
+   alt="Chill Out" 
+   title="Just Me"/>
+](https://shashank-s-sangawar-portfolio.vercel.app/)
 
 ![visitors](https://komarev.com/ghpvc/?username=Redhood-Schizophrenic&color=red&abbreviated=true&label=Counts)
 
